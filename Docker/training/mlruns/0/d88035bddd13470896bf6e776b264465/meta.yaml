@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\Mikhail\Desktop\Lr\Docker\training\mlruns\0\d88035bddd13470896bf6e776b264465/artifacts
+end_time: 1747933213427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d88035bddd13470896bf6e776b264465
+run_name: forests-linreg
+run_uuid: d88035bddd13470896bf6e776b264465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747933208828
+status: 3
+tags: []
+user_id: Mikhail
